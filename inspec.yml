@@ -1,0 +1,10 @@
+name: nginx_profile
+title: Nginx verification
+maintainer: IBM
+copyright: IBM
+copyright_email: awesome@ibm.com
+license: Apache-2.0
+summary: Verifies the basic nginx is there
+version: 1.0.0
+supports:
+  - platform-family: unix
